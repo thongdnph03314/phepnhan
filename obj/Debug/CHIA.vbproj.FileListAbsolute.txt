@@ -1,0 +1,10 @@
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\bin\Debug\CHIA.exe.config
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\bin\Debug\CHIA.exe
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\bin\Debug\CHIA.pdb
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\bin\Debug\CHIA.xml
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.CHIA.resources
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.Resources.resources
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.vbproj.GenerateResource.Cache
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.exe
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.xml
+C:\Users\s2mgs_000\Documents\Visual Studio 2013\Projects\CHIA\CHIA\obj\Debug\CHIA.pdb
